@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+}
+.menu{
+    display: inline;
+    margin-right:50px ;
+    
+}
+.nav{
+    text-align: right;
+}
+.section{
+    text-align: left;
+}
+.head{
+    border: 2px solid black;
+    text-align: center;
+}
+.list{
+    display: inline-block;
+    margin-right: 30px;
+}
